@@ -435,9 +435,7 @@ def pilih_super():
 	print "  \033[1;93m«🛑🛑🛑🛑🛑🛑🛑🛑🛑Developed By lovehacker🛑🛑🛑🛑🛑🛑🛑🛑»"
 	print '\033[1;92mProcess Has Been Completed\033[1;96m....'
 	print"\033[1;94mTotal OK/\x1b[1;95mCP \033[1;96m: \033[1;93m"+str(len(oks))+"\033[1;96m/\033[1;93m"+str(len(cekpoint))
-	print """
-              
-                  .lovehacer
+	print "\033 [1;98m   .lovehacer
               .Chenal Subscribe karo dain
                🌻🌻🌻🌻🌻🌻🌻🌻
                 🌻🌻🌻🌻🌻🌻🌻
